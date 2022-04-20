@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId 'comf55119091.example.fragmentlayout'
+        applicationId 'comf55119104.example.fragmentlayout'
         minSdk 25
         targetSdk 32
         versionCode 1
